@@ -1,0 +1,22 @@
+{
+  "name": "gavi-components",
+  "version": "1.0.0",
+  "description": "gavi package for reusable React components\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[3~\u001b[3~\u001b[3\u001b[3~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbelchiorinho/gavi-components.git"
+  },
+  "author": "sofia belchiorinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbelchiorinho/gavi-components/issues"
+  },
+  "homepage": "https://github.com/sbelchiorinho/gavi-components#readme",
+  "devDependencies": {
+    "react": "^15.4.2"
+  }
+}
